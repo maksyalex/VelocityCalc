@@ -1,6 +1,7 @@
 #Behold!...... a basic velocity calculator
 #v = d/t
 import math
+import string
 
 answer = str(input("press d for kilometers and e for meters: "))
 
